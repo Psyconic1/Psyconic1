@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Psyconic1
 - 👀 I’m interested in Networking and Programming
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’graduated in computer science degree.
 - 💞️ I’m looking to collaborate on ...
 - 📫 fuadabdu987@gmail.com
 
